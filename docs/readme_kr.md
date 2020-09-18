@@ -69,7 +69,7 @@
 `?username=` 영역의 값은 당신의 Github 계정의 이름으로 바꿔주세요.
 
 ```md
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=0307lee)](https://github.com/anuraghazra/github-readme-stats)
 ```
 
 _참고: 순위는 사용자의 통계를 기반으로 계산됩니다. [src/calculateRank.js](../src/calculateRank.js) 참고_
